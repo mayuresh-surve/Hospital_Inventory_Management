@@ -5,5 +5,5 @@ An user friendly interface with fast access to the databases, less errors all in
 
 HOW TO RUN PROJECT?
 1. Download all the files.
-2. Make sure all files are in same file.
+2. Make sure all files are in same folder.
 3. Under application package RUN "MyClass.java" file. 
